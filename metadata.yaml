@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41808#The-San-Francisco-FairyA-Tale-of-Early-Times
 gutenberg_issued: '2013-01-09'
 gutenberg_type: Text
 identifiers:
